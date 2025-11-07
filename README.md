@@ -1,4 +1,4 @@
-# Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Pardeep Singh</h1>
 <h3 align="center">I'm currently learning Pandas and NumPy</h3>
 
