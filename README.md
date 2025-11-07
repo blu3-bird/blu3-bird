@@ -1,21 +1,22 @@
-<h1 align="center">Hi 👋, I'm Pardeep Singh</h1>
-<h3 align="center">I'm currently learning Pandas and NumPy</h3>
+## Hi there! 👋
 
-- Exploring Flask to build cool web apps **Anime Verse**
+Yo, I’m **Pardeep Singh**  
+ Python learner focused on Pandas, NumPy, and building practical projects.  
+🔍 Curious about data, open-source, and making ideas work in code.   
+💻 Learning by doing — and sharing the journey
 
-- 🌱 I’m currently learning **Pandas and NumPy**
+## Skills & Technologies
 
-- 📫 How to reach me **youaregifted@myyahoo.com**
+flask,html,css,git,mysql,anaconda,django,github,js,opencv,sublime,vscode
 
-- ⚡ Fun fact **I am Arson.**
+## Recent Activity
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- **Pushed to** [Pandas-and-Numpy](https://github.com/blu3-bird/Pandas-and-Numpy) on November 7, 2025  
+- **Pushed to** [Anime-Verse](https://github.com/blu3-bird/Anime-Verse) on November 6, 2025  
+- **Pushed to** [my-website](https://github.com/blu3-bird/my-website) on September 29, 2025  
+- **Pushed to** [blu3-bird](https://github.com/blu3-bird/blu3-bird) on November 7, 2025  
+- **Created** new repositories and contributed to various projects.
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
+## Connect with Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+{"Telegram":"https://t.me/HuntingAdelin3","instagram":"https://www.instagram.com/blu3_bird_/"}
