@@ -1,24 +1,27 @@
-<h1 align="center">Yo! , I'm Pardeep Singh</h1>
-<h3 align="center">Currently exploring the worlds of Pandas & NumPy 🧠🐍</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Yo!%20I%27m%20Pardeep%20Singh&fontSize=36&fontAlignY=28&animation=twinkling" alt="header"/>
+</div>
+
+
+<h2 align="center">Currently exploring the worlds of Pandas & NumPy 🧠🐍</h2>
 
 ---
 
 ### 👨‍💻 About Me:
-- Fun Fact: I am Arson
-- 📚 Building **AnimeVerse**: a Flask app for anime fans to rate, review, and get smart recommendations.
-- 🧠 “O Captain! My Captain!” — A Thanks to the person who inspired me to start learning coding.
-- 🎸 When I'm not coding, you’ll find me playing guitar or lost in a thriller/crime novel
+- **Fun Fact:** I am Arson  
+- 📚 Building **AnimeVerse**: a Flask app for anime fans to rate, review, and get smart recommendations.  
+- 🧠 *O Captain! My Captain!*  
+- 🎸 When I'm not coding, you’ll find me playing guitar or lost in a thriller/crime novel.
 
 ---
 
 ### 🤝 Let’s Build Together:
-I’m always down to collaborate on beginner-friendly projects in Python, Flask, or cool web ideas  
+I’m always down to collaborate on beginner-friendly projects in Python, Flask, or cool web ideas.
 
 ---
 
 ### 🔧 Languages & Tools I Work With:
 <p align="left"> 
-    <!-- same icons section you already had -->
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
@@ -44,15 +47,19 @@ I’m always down to collaborate on beginner-friendly projects in Python, Flask,
 
 ### 🌐 Connect with Me:
 <p align="left">
-<a href="https://twitter.com/only_arson_" target="_blank"><img src="https://img.shields.io/twitter/follow/only_arson_?logo=twitter&style=for-the-badge" alt="Twitter: @only_arson_"></a>
-<a href="https://instagram.com/blu3_bird_" target="_blank"><img src="https://img.shields.io/badge/Instagram-black?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram: blu3_bird_"></a>
+  <a href="https://twitter.com/only_arson_" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/twitter/follow/only_arson_?logo=twitter&style=for-the-badge" alt="Twitter: @only_arson_"/>
+  </a>
+  <a href="https://instagram.com/blu3_bird_" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-black?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram: blu3_bird_"/>
+  </a>
+  <!-- Email button like the others -->
+  <a href="mailto:youaregifted@myyahoo.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Email-youaregifted%40myyahoo.com-D14836?style=for-the-badge&logo=mail&logoColor=white" alt="Email: youaregifted@myyahoo.com"/>
+  </a>
 </p>
 
 ---
 
-### 📫 Reach Me:
-**youaregifted@myyahoo.com**
-
----
-
 > ⚡ Fun fact: I go by **Arson** online — it’s 🔥 but don't worry, I'm all about building things, not burning them down.
+
