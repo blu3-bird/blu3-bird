@@ -2,21 +2,21 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Yo!%20I%27m%20Pardeep%20Singh&fontSize=36&fontAlignY=28&animation=twinkling" alt="header"/>
 </div>
 
-
 <h2 align="center">Currently exploring the worlds of Pandas & NumPy 🧠🐍</h2>
 
 ---
 
 ### 👨‍💻 About Me:
 - **Fun Fact:** I am Arson  
-- 📚 Building **AnimeVerse**: a Flask app for anime fans to rate, review, and get smart recommendations.  
+- 🛍️ Currently working on **Shopping on Tuesday**: A sleek Flask-powered mini store for my Instagram stationary page — featuring smooth product handling, clean UI, and a lightweight stack (Flask, SQLAlchemy, Jinja2, CSS).
+- 📚 Also building **AnimeVerse**: a Flask app for anime fans to rate, review, and get smart recommendations.  
 - 🧠 *O Captain! My Captain!*  
-- 🎸 When I'm not coding, you’ll find me playing guitar or lost in a thriller/crime novel.
+- 🎸 When I'm not coding, you'll find me playing guitar or lost in a thriller/crime novel.
 
 ---
 
-### 🤝 Let’s Build Together:
-I’m always down to collaborate on beginner-friendly projects in Python, Flask, or cool web ideas.
+### 🤝 Let's Build Together:
+I'm always down to collaborate on beginner-friendly projects in Python, Flask, or cool web ideas.
 
 ---
 
@@ -39,8 +39,15 @@ I’m always down to collaborate on beginner-friendly projects in Python, Flask,
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blu3-bird&show_icons=true&theme=tokyonight" alt="Arson's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=blu3-bird&show_icons=true&theme=tokyonight&count_private=true" alt="Arson's GitHub stats" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=blu3-bird&theme=tokyonight" alt="Arson's GitHub streak" height="180"/>
+</p>
+
+---
+
+### 📈 GitHub Activity Graph:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blu3-bird&theme=merko&hide_border=true&area=true&height=300" alt="Arson's Activity Graph" width="75%"/>
 </p>
 
 ---
@@ -53,7 +60,6 @@ I’m always down to collaborate on beginner-friendly projects in Python, Flask,
   <a href="https://instagram.com/blu3_bird_" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Instagram-black?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram: blu3_bird_"/>
   </a>
-  <!-- Email button like the others -->
   <a href="mailto:youaregifted@myyahoo.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Email-youaregifted%40myyahoo.com-D14836?style=for-the-badge&logo=mail&logoColor=white" alt="Email: youaregifted@myyahoo.com"/>
   </a>
@@ -61,5 +67,14 @@ I’m always down to collaborate on beginner-friendly projects in Python, Flask,
 
 ---
 
-> ⚡ Fun fact: I go by **Arson** online — it’s 🔥 but don't worry, I'm all about building things, not burning them down.
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
 
+---
+
+> ⚡ Fun fact: I go by **Arson** online — it's 🔥 but don't worry, I'm all about building things, not burning them down.
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer"/>
+</div>
