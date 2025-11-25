@@ -11,7 +11,25 @@
 - 🛍️ Currently working on **Shopping on Tuesday**: A sleek Flask-powered mini store for my Instagram stationary page — featuring smooth product handling, clean UI, and a lightweight stack (Flask, SQLAlchemy, Jinja2, CSS).
 - 📚 Also building **AnimeVerse**: a Flask app for anime fans to rate, review, and get smart recommendations.  
 - 🧠 *O Captain! My Captain!*  
+- 🦥 Learning **Spanish** on Duolingo — 365+ days streak and counting! ¡Vamos!
 - 🎸 When I'm not coding, you'll find me playing guitar or lost in a thriller/crime novel.
+
+---
+
+### 🔥 Duolingo Streak:
+<p align="center">
+  <img src="https://img.shields.io/badge/🇪🇸_Spanish-365+_Days_🔥-58CC02?style=for-the-badge&logo=duolingo&logoColor=white" alt="Duolingo Spanish Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://duolingo-stats-card.vercel.app/api?username=beauti_sleep&theme=dark" alt="Duolingo Stats" />
+</p>
+
+<!-- Alternative if above doesn't work:
+<p align="center">
+  <img src="https://duo-readme-stats.vercel.app/api?username=YOUR_DUOLINGO_USERNAME" alt="Duolingo Stats" />
+</p>
+-->
 
 ---
 
