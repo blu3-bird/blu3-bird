@@ -69,9 +69,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=blu3-bird&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=blu3-bird&theme=tokyonight" alt="GitHub Streak" height="170"/>
-</p>
 
+  
 ---
 
 ## 🔥 Duolingo Stats
@@ -132,3 +131,4 @@ I'm always interested in collaborating on:
 </div>
 
 <p align="center">Made with ❤️ and Python</p>
+
