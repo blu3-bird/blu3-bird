@@ -65,10 +65,21 @@
 
 ---
 
-## 📊 GitHub Stats
+<p align="center">
+  <!-- Row 1 -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=blu3-bird&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blu3-bird&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=blu3-bird&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="170"/>
+  <!-- Row 2 -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blu3-bird&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <!-- Row 3 (Optional but clean) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=blu3-bird&theme=tokyonight"/>
+</p>
 
   
 ---
