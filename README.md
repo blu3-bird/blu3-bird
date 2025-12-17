@@ -64,22 +64,36 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
+<table align="center">
+  <tr>
+    <td style="border:1px solid #444; padding:6px;">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=blu3-bird&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
+    </td>
+    <td style="border:1px solid #444; padding:6px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=blu3-bird&theme=tokyonight&hide_border=true" height="165"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <!-- Row 1 -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=blu3-bird&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blu3-bird&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+<br/>
 
-<p align="center">
-  <!-- Row 2 -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blu3-bird&theme=tokyonight"/>
-</p>
+<table align="center">
+  <tr>
+    <td style="border:1px solid #444; padding:6px;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blu3-bird&theme=tokyonight"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <!-- Row 3 (Optional but clean) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=blu3-bird&theme=tokyonight"/>
-</p>
+<br/>
+
+<table align="center">
+  <tr>
+    <td style="border:1px solid #444; padding:6px;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=blu3-bird&theme=tokyonight"/>
+    </td>
+  </tr>
+</table>
 
   
 ---
