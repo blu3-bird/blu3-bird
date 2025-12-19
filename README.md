@@ -2,29 +2,39 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Yo%20I'm%20Pardeep%20Singh&fontSize=40&fontAlignY=40&animation=twinkling" alt="header"/>
 </div>
 
-<h2 align="center">Python Developer | Data Explorer</h2>
-<h3 align="center">Currently diving deep into Pandas & NumPy 🐍📊</h3>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
+<!-- TITLE -->
+<h1 align="center">🐍 Python Developer • Data Enthusiast</h1>
+
+<!-- SUBTITLE -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=blu3-bird&style=flat-square&color=blue" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/blu3-bird?style=flat-square&logo=github" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/blu3-bird?style=flat-square&logo=github" alt="stars"/>
+  <strong>Exploring the world of Data — Pandas, NumPy & clean code vibes 📊⚡</strong>
 </p>
 
----
+<!-- BADGES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=blu3-bird&style=for-the-badge&color=ff00c8" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/blu3-bird?style=for-the-badge&color=00c6ff" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/blu3-bird?style=for-the-badge&color=8a2be2" alt="Stars"/>
+</p>
+
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **Shopping on Tuesday** - A Flask-powered mini store for my Instagram stationary page
-- 🌱 Learning **Pandas & NumPy** for data analysis
-- 🇪🇸 365+ days streak on Duolingo learning Spanish - ¡Vamos!
-- 🎸 Hobbies: Guitar playing & reading thriller novels
-- 🧠 Favorite Quote: *O Captain! My Captain!*
-- 🔥 Known online as **Arson**
-- 💬 Ask me about **Python, Flask, or Data Science**
-- 📫 Reach me: **youaregifted@myyahoo.com**
 
----
+- 🔭 Building **Shopping on Tuesday** — a clean, Flask-powered mini e-commerce  
+- 🌱 Currently learning **Pandas & NumPy** to level up my data skills  
+- 🇪🇸 Over **365 days** Duolingo Spanish streak — *vamos, hermano!*  
+- 🎸 Into guitar riffs, thriller novels, and late-night coding  
+- 🧠 Favorite Quote: *O Captain! My Captain!*  
+- 🔥 Online alias: **Arson**  
+- 💬 Ask me anything about **Python, Flask, or Data Analysis**  
+- 📫 Contact: **youaregifted@myyahoo.com**
+
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
 
 ## 🛠️ Tech Stack
 
@@ -63,7 +73,8 @@
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
 <table align="center">
   <tr>
     <td style="border:1px solid #444; padding:6px;">
@@ -96,7 +107,7 @@
 </table>
 
   
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 ## 🔥 Duolingo Stats
 
@@ -108,7 +119,7 @@
   <img src="https://duolingo-stats-card.vercel.app/api?username=beauti_sleep&theme=dark" alt="Duolingo Stats"/>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 ## 📈 Activity Graph
 
@@ -116,7 +127,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=blu3-bird&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 ## 🤝 Open to Collaboration
 
@@ -127,7 +138,7 @@ I'm always interested in collaborating on:
 - Machine learning experiments
 - Beginner-friendly open source contributions
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 ## 🌐 Connect With Me
 
@@ -143,7 +154,7 @@ I'm always interested in collaborating on:
   </a>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote"/>
