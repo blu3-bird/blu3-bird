@@ -81,7 +81,9 @@
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=blu3-bird&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
     </td>
     <td style="border:1px solid #444; padding:6px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=blu3-bird&theme=tokyonight&hide_border=true" height="165"/>
+      <p align="center"><a href="https://github.com/blu3-bird"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blu3-bird&theme=tokyonight"/></a></p>
+
+<p align="center"><a href="https://github.com/blu3-bird"><img src="https://github-stats-eta-two.vercel.app/api/stats/blu3-bird"/></a></p>
     </td>
   </tr>
 </table>
