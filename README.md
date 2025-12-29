@@ -75,43 +75,33 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
+# 📊 GitHub Overview
+
 <table align="center">
   <tr>
     <td style="border:1px solid #444; padding:6px;">
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=blu3-bird&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
     </td>
     <td style="border:1px solid #444; padding:6px;">
-      <p align="center"><a href="https://github.com/blu3-bird"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blu3-bird&theme=tokyonight"/></a></p>
-
-<p align="center"><a href="https://github.com/blu3-bird"><img src="https://github-stats-eta-two.vercel.app/api/stats/blu3-bird"/></a></p>
+      <p align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blu3-bird&theme=tokyonight"/>
+      </p>
+      <p align="center">
+        <img src="https://github-stats-eta-two.vercel.app/api/stats/blu3-bird"/>
+      </p>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<table align="center">
-  <tr>
-    <td style="border:1px solid #444; padding:6px;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blu3-bird&theme=tokyonight"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blu3-bird&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+</p>
 
-<br/>
-
-<table align="center">
-  <tr>
-    <td style="border:1px solid #444; padding:6px;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=blu3-bird&theme=tokyonight"/>
-    </td>
-  </tr>
-</table>
-
-  
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-## 🔥 Duolingo Stats
+# 🔥 Duolingo Stats
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spanish-365+_Days_Streak_🔥-58CC02?style=for-the-badge&logo=duolingo&logoColor=white" alt="Duolingo"/>
@@ -123,13 +113,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-## 📈 Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blu3-bird&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 ## 🤝 Open to Collaboration
 
