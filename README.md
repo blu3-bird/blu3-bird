@@ -38,66 +38,48 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
+      <img src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=flat">
+      <img src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat">
+      <img src="https://img.shields.io/badge/-FastAPI-2F8B80.svg?logo=fastapi&style=flat">
+      <img src="https://img.shields.io/badge/-Pandas-150458.svg?logo=pandas&style=flat">
+      <img src="https://img.shields.io/badge/-NumPy-013243.svg?logo=numpy&style=flat">
+      <img src="https://img.shields.io/badge/-Scikit--learn-F7931E.svg?logo=scikit-learn&style=flat">
+      <br>
+      <img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
+      <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
+      <img src="https://img.shields.io/badge/-JavaScript-276DC3.svg?logo=javascript&style=flat">
+      <br>
+      <img src="https://img.shields.io/badge/-MySQL-215788.svg?logo=mysql&style=flat">
+      <img src="https://img.shields.io/badge/-PostgreSQL-315E86.svg?logo=postgresql&style=flat">
+      <img src="https://img.shields.io/badge/-SQLite-07405E.svg?logo=sqlite&style=flat">
+      <br>
+      <img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=flat">
+      <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">
+      <img src="https://img.shields.io/badge/-Jupyter-F37626.svg?logo=jupyter&style=flat">
+      <img src="https://img.shields.io/badge/-VSCode-007ACC.svg?logo=visual-studio-code&style=flat">
+      <img src="https://img.shields.io/badge/-GoogleColab-F9AB00.svg?logo=googlecolab&style=flat">
+    </td>
+  </tr>
+</table>
 
-**Frameworks & Libraries:**  
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Requests](https://img.shields.io/badge/Requests-FF6F00?style=flat&logo=python&logoColor=white)
-![Beautiful Soup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat&logo=python&logoColor=white)
-
-**Databases:**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-
-**Tools & IDEs:**  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 # 📊 GitHub Overview
 
-<table align="center">
-  <tr>
-    <td style="border:1px solid #444; padding:6px;">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=blu3-bird&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
-    </td>
-    <td style="border:1px solid #444; padding:6px;">
-      <p align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blu3-bird&theme=tokyonight"/>
-      </p>
-      <p align="center">
-        <img src="https://github-stats-eta-two.vercel.app/api/stats/blu3-bird"/>
-      </p>
-    </td>
-  </tr>
-</table>
+<div style="width:100%; display:flex; gap:10px; justify-content:center;">
+ 
+</div>
 
-<br/>
+<br>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blu3-bird&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
-</p>
+<img src="https://github-stats-eta-two.vercel.app/api/stats/blu3-bird?theme=cosmic&date=8" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blu3-bird&theme=dracula" width="100%"/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
