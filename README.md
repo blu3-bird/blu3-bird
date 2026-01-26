@@ -4,37 +4,33 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-<!-- TITLE -->
 <h1 align="center">🐍 Python Developer • Data Enthusiast</h1>
 
-<!-- SUBTITLE -->
 <p align="center">
-  <strong>Exploring the world of Data — Pandas, NumPy & clean code vibes 📊⚡</strong>
+  <strong>Learning by building — Data, ML & clean problem-solving 📊⚡</strong>
 </p>
 
-<!-- BADGES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=blu3-bird&style=for-the-badge&color=ff00c8" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/blu3-bird?style=for-the-badge&color=00c6ff" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/blu3-bird?style=for-the-badge&color=8a2be2" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=blu3-bird&style=for-the-badge&color=ff00c8"/>
+  <img src="https://img.shields.io/github/followers/blu3-bird?style=for-the-badge&color=00c6ff"/>
+  <img src="https://img.shields.io/github/stars/blu3-bird?style=for-the-badge&color=8a2be2"/>
+  <a href="https://youtu.be/@only-arson">
+    <img src="https://img.shields.io/badge/YouTube-Only%20Arson-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
 </p>
-
 
 ## 👨‍💻 About Me
 
-
-- 🔭 Building **Shopping on Tuesday** — a clean, Flask-powered mini e-commerce  
-- 🌱 Currently learning **Pandas & NumPy** to level up my data skills  
-- 🇪🇸 Over **365 days** Duolingo Spanish streak — *vamos, hermano!*  
-- 🎸 Into guitar riffs, thriller novels, and late-night coding  
-- 🧠 Favorite Quote: *O Captain! My Captain!*  
+- 🔭 Building **Shopping on Tuesday** — a Flask-powered e-commerce project  
+- 🌱 Deep-diving into **Pandas, NumPy, ML & regression models**  
+- 🎥 Creating beginner-friendly explanations on my **YouTube channel (Only Arson)**  
+- 🇪🇸 **400+ days** Duolingo Spanish streak — consistency over motivation  
+- 🎸 Guitar riffs, thriller novels, and late-night debugging  
 - 🔥 Online alias: **Arson**  
-- 💬 Ask me anything about **Python, Flask, or Data Analysis**  
+- 💬 Ask me about **Python, Flask, Data Analysis, or ML basics**  
 - 📫 Contact: **youaregifted@myyahoo.com**
 
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-
 
 ## 🛠️ Tech Stack
 
@@ -66,19 +62,11 @@
   </tr>
 </table>
 
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 # 📊 GitHub Overview
 
-<div style="width:100%; display:flex; gap:10px; justify-content:center;">
- 
-</div>
-
-<br>
-
 <img src="https://github-stats-eta-two.vercel.app/api/stats/blu3-bird?theme=cosmic&date=8" width="100%"/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blu3-bird&theme=dracula" width="100%"/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
@@ -86,25 +74,22 @@
 # 🔥 Duolingo Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Spanish-365+_Days_Streak_🔥-58CC02?style=for-the-badge&logo=duolingo&logoColor=white" alt="Duolingo"/>
+  <img src="https://img.shields.io/badge/Spanish-400+_Days_Streak_🔥-58CC02?style=for-the-badge&logo=duolingo&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://duolingo-stats-card.vercel.app/api?username=beauti_sleep&theme=dark" alt="Duolingo Stats"/>
+  <img src="https://duolingo-stats-card.vercel.app/api?username=beauti_sleep&theme=dark"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-
-
 ## 🤝 Open to Collaboration
 
-I'm always interested in collaborating on:
-- Python projects
-- Flask/Django web applications
-- Data analysis & visualization projects
-- Machine learning experiments
-- Beginner-friendly open source contributions
+- Python projects  
+- Flask / Django web apps  
+- Data analysis & visualization  
+- Machine learning experiments  
+- Beginner-friendly open source
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
@@ -112,27 +97,29 @@ I'm always interested in collaborating on:
 
 <p align="center">
   <a href="https://twitter.com/only_arson_">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://instagram.com/blu3_bird_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://youtu.be/@only-arson">
+    <img src="https://img.shields.io/badge/YouTube-Only%20Arson-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
   <a href="mailto:youaregifted@myyahoo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 <p align="center">⚡ Fun fact: I go by Arson online — building things, not burning them! 🔥</p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
 
 <p align="center">Made with ❤️ and Python</p>
-
