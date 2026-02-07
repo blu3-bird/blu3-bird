@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=blu3-bird&style=for-the-badge&color=ff00c8"/>
   <img src="https://img.shields.io/github/followers/blu3-bird?style=for-the-badge&color=00c6ff"/>
   <img src="https://img.shields.io/github/stars/blu3-bird?style=for-the-badge&color=8a2be2"/>
-  <a href="https://youtu.be/@only-arson">
+  <a href="https://youtube.com/@only-arson?si=7DBL9HsDTsQ6RvFy">
     <img src="https://img.shields.io/badge/YouTube-Only%20Arson-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
