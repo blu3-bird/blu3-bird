@@ -132,3 +132,5 @@
 </div>
 
 <p align="center">Made with ❤️ and Python</p>
+
+![Snake animation](https://raw.githubusercontent.com/blu3-bird/blu3-bird/output/snake.svg)
