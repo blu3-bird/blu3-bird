@@ -121,6 +121,18 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blu3-bird/blu3-bird/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blu3-bird/blu3-bird/output/snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/blu3-bird/blu3-bird/output/snake.svg" width="100%" />
+  </picture>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
@@ -132,5 +144,3 @@
 </div>
 
 <p align="center">Made with ❤️ and Python</p>
-
-![Snake animation](https://raw.githubusercontent.com/blu3-bird/blu3-bird/output/snake.svg)
