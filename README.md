@@ -21,13 +21,14 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Building **Shopping on Tuesday** — a Flask-powered e-commerce project  
-- 🌱 Deep-diving into **Pandas, NumPy, ML & regression models**  
-- 🎥 Creating beginner-friendly explanations on my **YouTube channel (Only Arson)**  
-- 🇪🇸 **400+ days** Duolingo Spanish streak — consistency over motivation  
-- 🎸 Guitar riffs, thriller novels, and late-night debugging  
-- 🔥 Online alias: **Arson**  
-- 💬 Ask me about **Python, Flask, Data Analysis, or ML basics**  
+- 🔭 Currently building **Shopping on Tuesday** — a scalable Flask-based e-commerce platform  
+- 🌱 Actively learning and experimenting with **Pandas, NumPy, and Machine Learning models**  
+- 🎥 Sharing beginner-friendly content on my **YouTube channel (Only Arson)**  
+- 🇪🇸 **450+ days** Duolingo Spanish streak — consistency over motivation  
+- 🧠 Focused on understanding concepts deeply, not just using them  
+- 🎸 Guitar, thriller novels, and late-night coding sessions  
+- 🔥 Online identity: **Arson**  
+- 💬 Open to discussions on **Python, Flask, Data Analysis, and ML basics**  
 - 📫 Contact: **youaregifted@myyahoo.com**
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
@@ -68,6 +69,14 @@
 
 <img src="https://github-stats-eta-two.vercel.app/api/stats/blu3-bird?theme=cosmic&date=8" width="100%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blu3-bird&theme=dracula" width="100%"/>
+
+
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=blu3-bird&theme=tokyonight&utcOffset=5.5"/>
+</p>
+
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
