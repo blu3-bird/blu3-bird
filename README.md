@@ -68,13 +68,12 @@
 # 📊 GitHub Overview
 
 <img src="https://github-stats-eta-two.vercel.app/api/stats/blu3-bird?theme=cosmic&date=8" width="100%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blu3-bird&theme=dracula" width="100%"/>
 
 
+## GitHub Activity
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=blu3-bird&theme=tokyonight&utcOffset=5.5"/>
-</p>
+![GitHub Contribution Graph](https://ghchart.rshah.org/blu3-bird)
+
 
 
 
