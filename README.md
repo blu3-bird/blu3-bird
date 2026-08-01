@@ -1,187 +1,75 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yo%20I'm%20Pardeep%20Singh&fontSize=48&fontAlignY=38&animation=twinkling&fontColor=ffffff" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yo%20I'm%20Pardeep%20Singh&fontSize=44&fontAlignY=38&animation=twinkling&fontColor=ffffff" alt="header"/>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=500&color=00C6FF&center=true&vCenter=true&width=435&lines=🐍+Python+Developer+%7C+Data+Enthusiast;📊+ML+%26+Analytics+Explorer;⚡+Learning+by+Building;🔥+Known+as+Arson" alt="typing-svg"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3200&pause=600&color=00C6FF&center=true&vCenter=true&width=600&lines=%F0%9F%92%BC%20Web%20Developer%20%40%20EnglishLearners%20Pvt%20Ltd;%F0%9F%A7%A0%20Currently%3A%20ML%20%26%20Deep%20Learning;%F0%9F%A6%89%20Duolingo%20Streak%20550%2B%20Days;%F0%9F%90%8D%20Python%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Docker;%F0%9F%94%A5%20Known%20as%20Arson" alt="typing-svg"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-
 <div align="center">
-  
+
 [![Profile Views](https://komarev.com/ghpvc/?username=blu3-bird&style=for-the-badge&color=ff00c8)](https://github.com/blu3-bird)
 [![Followers](https://img.shields.io/github/followers/blu3-bird?style=for-the-badge&color=00c6ff&logo=github)](https://github.com/blu3-bird?tab=followers)
 [![Stars](https://img.shields.io/github/stars/blu3-bird?style=for-the-badge&color=8a2be2&logo=github)](https://github.com/blu3-bird?tab=repositories)
+[![EnglishLearners](https://img.shields.io/badge/EnglishLearners-Web%20Developer-00c6ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://englishlearners.in)
 [![YouTube](https://img.shields.io/badge/YouTube-Only%20Arson-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@only-arson?si=7DBL9HsDTsQ6RvFy)
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 👋 About Me
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" alt="coding" width="50"/><br/>
-        <b>Currently Building</b><br/>
-        Shopping on Tuesday<br/>
-        <i>Flask E-commerce Platform</i>
-      </td>
-      <td align="center">
-        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="growing" width="50"/><br/>
-        <b>Learning Stack</b><br/>
-        Pandas • NumPy<br/>
-        <i>Machine Learning Models</i>
-      </td>
-      <td align="center">
-        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3ac/512.gif" alt="duolingo" width="50"/><br/>
-        <b>Duolingo Streak</b><br/>
-        🔥 500+ Days<br/>
-        <i>Spanish Learner</i>
-      </td>
-      <td align="center">
-        <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b8/512.gif" alt="guitar" width="50"/><br/>
-        <b>Hobbies</b><br/>
-        Guitar • Novels<br/>
-        <i>Late-night Coding</i>
-      </td>
-    </tr>
-  </table>
+  <p>
+    <b>Web Developer</b> at <a href="https://englishlearners.in"><b>EnglishLearners Pvt Ltd</b></a> — shipping web apps by day, learning <b>Machine Learning & Deep Learning</b> by night 🚀
+  </p>
+  <p>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="18" align="center"/> <b>Work:</b> EnglishLearners Pvt Ltd &nbsp;·&nbsp;
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" width="18" align="center"/> <b>Learning:</b> ML & Deep Learning &nbsp;·&nbsp;
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Owl.png" width="18" align="center"/> <b>Duolingo:</b> 550+ days Spanish &nbsp;·&nbsp;
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Guitar.png" width="18" align="center"/> <b>Hobbies:</b> Guitar • Novels
+  </p>
+  <p>
+    🎥 <b>Content:</b> Beginner-friendly tutorials on <b>Only Arson</b> YouTube &nbsp;·&nbsp;
+    📚 <b>Philosophy:</b> Understanding concepts deeply &nbsp;·&nbsp;
+    🔥 <b>Alias:</b> Known online as <b>Arson</b> — building, not burning! &nbsp;·&nbsp;
+    📫 <a href="mailto:youaregifted@myyahoo.com"><b>youaregifted@myyahoo.com</b></a>
+  </p>
 </div>
-
-### 👋 More About Me
-
-| 🔭 | **Project** | Building **Shopping on Tuesday** — Scalable Flask E-commerce |
-|----|-------------|-----------------------------------------------------------|
-| 🌱 | **Focus** | Deep-diving into **Data Science & ML** concepts |
-| 🎥 | **Content** | Beginner-friendly tutorials on **Only Arson** YouTube |
-| 🇪🇸 | **Duolingo** | **500+ days** Spanish streak — *Consistency > Motivation* |
-| 🧠 | **Philosophy** | Understanding concepts deeply, not just surface-level |
-| 🔥 | **Alias** | Known online as **Arson** (building, not burning!) |
-| 💬 | **Discussions** | Python • Flask • Data Analysis • ML Basics |
-| 📫 | **Contact** | [youaregifted@myyahoo.com](mailto:youaregifted@myyahoo.com) |
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-### Languages & Core
-<p>
-  <img src="https://img.shields.io/badge/Python-F9DC3E?style=for-the-badge&logo=python&logoColor=black" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-### Backend Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-</p>
-
-### Data Science & ML
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-</p>
-
-### Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-</p>
-
-### Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
-  <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" alt="Google Colab"/>
-</p>
-
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,flask,django,fastapi,tensorflow,pytorch,pandas,numpy,sklearn,postgres,mysql,sqlite,docker,linux,git,github,vscode,jupyter&perline=11" alt="Tech Stack"/>
 </div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-stats-eta-two.vercel.app/api/stats/blu3-bird?theme=cosmic&date=8" width="100%"/>
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=blu3-bird&theme=cosmic&hide_border=false" width="100%"/>
-      </td>
-    </tr>
-  </table>
-  
-  ### Contribution Graph
-  <img src="https://ghchart.rshah.org/blu3-bird" alt="Contribution Graph" width="100%"/>
+  <img src="https://github-stats-eta-two.vercel.app/api/stats/blu3-bird?theme=cosmic&date=8" width="46%"/>
+  <img src="https://streak-stats.demolab.com/?user=blu3-bird&theme=midnight-purple&hide_border=true&background=0D1117&stroke=00C6FF&ring=FF00C8&fire=FF00C8&currStreakLabel=00C6FF&sideLabels=8A2BE2" width="46%"/>
 </div>
-
----
-
-## 🦉 Duolingo Stats
 
 <div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/Spanish-500%2B_Days_Streak_🔥-58CC02?style=for-the-badge&logo=duolingo&logoColor=white" alt="Duolingo Streak"/>
-  </p>
-  
-  <img src="https://duolingo-stats-card.vercel.app/api?username=beauti_sleep&theme=dark" alt="Duolingo Stats"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blu3-bird&bg_color=0D1117&color=00C6FF&line=8A2BE2&point=FF00C8&area=true&area_color=1e1e2e&hide_border=true&radius=8" alt="Activity Graph" width="100%"/>
 </div>
-
----
-
-## 🤝 Open to Collaboration
 
 <div align="center">
-
-| 🐍 | 🌐 | 📊 | 🤖 | 🌱 |
-|----|----|----|----|----|
-| Python Projects | Flask/Django Apps | Data Analysis | ML Experiments | Open Source |
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blu3-bird/blu3-bird/main/profile-3d-contrib/profile-night-green.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blu3-bird/blu3-bird/main/profile-3d-contrib/profile-south-season.svg" />
+    <img alt="3D contributions" src="https://raw.githubusercontent.com/blu3-bird/blu3-bird/main/profile-3d-contrib/profile-south-season-animate.svg" width="100%" />
+  </picture>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-
-## 🌐 Connect With Me
+## 🦉 Duolingo
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://twitter.com/only_arson_" style="text-decoration:none">
-          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://instagram.com/blu3_bird_" style="text-decoration:none">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://youtu.be/@only-arson" style="text-decoration:none">
-          <img src="https://img.shields.io/badge/YouTube-Only%20Arson-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="mailto:youaregifted@myyahoo.com" style="text-decoration:none">
-          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/Spanish-550%2B_Days_Streak_🔥-58CC02?style=for-the-badge&logo=duolingo&logoColor=white" alt="Duolingo Streak"/>
+  <br/><br/>
+  <img src="https://duolingo-stats-card.vercel.app/api?username=beauti_sleep&theme=dark" alt="Duolingo Stats" width="70%"/>
 </div>
-
----
 
 ## 🐍 Contribution Snake
 
@@ -195,6 +83,17 @@
 
 ---
 
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://twitter.com/only_arson_"><img src="https://skillicons.dev/icons?i=twitter" width="40" alt="Twitter"/></a>
+  <a href="https://instagram.com/blu3_bird_"><img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram"/></a>
+  <a href="https://youtube.com/@only-arson"><img src="https://skillicons.dev/icons?i=youtube" width="40" alt="YouTube"/></a>
+  <a href="https://t.me/HuntingAdelin3"><img src="https://skillicons.dev/icons?i=telegram" width="40" alt="Telegram"/></a>
+  <a href="mailto:youaregifted@myyahoo.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email"/></a>
+  <a href="https://englishlearners.in"><img src="https://img.shields.io/badge/englishlearners.in-Visit%20Site-00c6ff?style=for-the-badge" alt="Website"/></a>
+</div>
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
 </div>
@@ -202,7 +101,7 @@
 <p align="center"><b>⚡ Fun fact:</b> I go by <b>Arson</b> online — building things, not burning them! 🔥</p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 </div>
 
 <p align="center"><i>Made with ❤️ and Python</i></p>
