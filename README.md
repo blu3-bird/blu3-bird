@@ -41,7 +41,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,flask,django,fastapi,tensorflow,pytorch,pandas,numpy,sklearn,postgres,mysql,sqlite,docker,linux,git,github,vscode,jupyter&perline=11" alt="Tech Stack"/>
+  <img src="https://raw.githubusercontent.com/blu3-bird/blu3-bird/main/assets/tech-stack.svg" alt="Tech Stack"/>
 </div>
 
 ## 📊 GitHub Stats
@@ -52,7 +52,17 @@
 </div>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blu3-bird&layout=compact&langs_count=10&theme=midnight-purple&bg_color=0D1117&hide_border=true&title_color=00C6FF&text_color=ffffff&icon_color=8A2BE2" alt="Top Languages" width="46%"/>
+</div>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=blu3-bird&bg_color=0D1117&color=00C6FF&line=8A2BE2&point=FF00C8&area=true&area_color=1e1e2e&hide_border=true&radius=8" alt="Activity Graph" width="100%"/>
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=blu3-bird&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies"/>
 </div>
 
 <div align="center">
@@ -86,11 +96,11 @@
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://twitter.com/only_arson_"><img src="https://skillicons.dev/icons?i=twitter" width="40" alt="Twitter"/></a>
-  <a href="https://instagram.com/blu3_bird_"><img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram"/></a>
-  <a href="https://youtube.com/@only-arson"><img src="https://skillicons.dev/icons?i=youtube" width="40" alt="YouTube"/></a>
-  <a href="https://t.me/HuntingAdelin3"><img src="https://skillicons.dev/icons?i=telegram" width="40" alt="Telegram"/></a>
-  <a href="mailto:youaregifted@myyahoo.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email"/></a>
+  <a href="https://twitter.com/only_arson_"><img src="https://raw.githubusercontent.com/blu3-bird/blu3-bird/main/assets/social-twitter.svg" width="48" alt="Twitter"/></a>
+  <a href="https://instagram.com/blu3_bird_"><img src="https://raw.githubusercontent.com/blu3-bird/blu3-bird/main/assets/social-instagram.svg" width="48" alt="Instagram"/></a>
+  <a href="https://youtube.com/@only-arson"><img src="https://raw.githubusercontent.com/blu3-bird/blu3-bird/main/assets/social-youtube.svg" width="48" alt="YouTube"/></a>
+  <a href="https://t.me/HuntingAdelin3"><img src="https://raw.githubusercontent.com/blu3-bird/blu3-bird/main/assets/social-telegram.svg" width="48" alt="Telegram"/></a>
+  <a href="mailto:youaregifted@myyahoo.com"><img src="https://raw.githubusercontent.com/blu3-bird/blu3-bird/main/assets/social-gmail.svg" width="48" alt="Email"/></a>
   <a href="https://englishlearners.in"><img src="https://img.shields.io/badge/englishlearners.in-Visit%20Site-00c6ff?style=for-the-badge" alt="Website"/></a>
 </div>
 
