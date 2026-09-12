@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="502" viewBox="0 0 800 502" font-family="ui-monospace, 'SF Mono', 'Cascadia Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace">
+<defs>
+    <linearGradient id="grad1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1793D1"/><stop offset="1" stop-color="#4AF626"/>
+    </linearGradient>
+    <clipPath id="tbar"><rect x="1.5" y="1.5" width="797" height="39" rx="8.5"/></clipPath>
+  </defs>
+  <rect x="1.5" y="1.5" width="797" height="499" rx="10" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
+  <rect x="1.5" y="1.5" width="797" height="39" fill="#161B22" clip-path="url(#tbar)"/>
+  <line x1="1.5" y1="40.5" x2="798.5" y2="40.5" stroke="#30363D" stroke-width="1"/>
+  <circle cx="26" cy="20.5" r="6" fill="#FF5F56"/>
+  <circle cx="47" cy="20.5" r="6" fill="#FFBD2E"/>
+  <circle cx="68" cy="20.5" r="6" fill="#27C93F"/>
+  <text x="400.0" y="25" text-anchor="middle" font-size="12.5" fill="#8B949E">pardeep@blu3-bird: ~</text>
+<text x="28" y="70" font-size="15"><tspan fill="#4AF626">┌──(pardeep@blu3-bird)-[~]</tspan></text>
+<text x="28" y="94" font-size="15"><tspan fill="#4AF626" font-weight="700">└─$</tspan><tspan fill="#E6EDF3" font-weight="700"> neofetch</tspan></text>
+<text x="28" y="134" font-size="15" fill="#E95420">        a8888b.</text>
+<text x="28" y="153" font-size="15" fill="#E95420">       d888888b.</text>
+<text x="28" y="172" font-size="15" fill="#E95420">       8P"YP"Y88</text>
+<text x="28" y="191" font-size="15" fill="#E95420">       8|o||o|88</text>
+<text x="28" y="210" font-size="15" fill="#E95420">       8'    .88</text>
+<text x="28" y="229" font-size="15" fill="#E95420">       8`._.' Y8.</text>
+<text x="28" y="248" font-size="15" fill="#E95420">      d/      `8b.</text>
+<text x="28" y="267" font-size="15" fill="#E95420">     dP   .    Y8b.</text>
+<text x="28" y="286" font-size="15" fill="#E95420">    d8:'  "  `::88b</text>
+<text x="28" y="305" font-size="15" fill="#E95420">   d8"         'Y88b</text>
+<text x="28" y="324" font-size="15" fill="#E95420">  :8P    '      :888</text>
+<text x="28" y="343" font-size="15" fill="#E95420">   8a.   :     _a88P</text>
+<text x="28" y="362" font-size="15" fill="#E95420"> ._/Y88_:  .|  88P|</text>
+<text x="28" y="381" font-size="15" fill="#E95420"> |  YP   `'  :.</text>
+<text x="28" y="400" font-size="15" fill="#E95420"> |  |_____|__|</text>
+<text x="28" y="419" font-size="15" fill="#E95420">  \_/     \_/</text>
+<text x="300" y="134" font-size="17" font-weight="700" fill="#4AF626">pardeep@blu3-bird</text>
+<text x="300" y="157" font-size="14" fill="#8B949E">─────────────────</text>
+<text x="300" y="181" font-size="14"><tspan fill="#E95420" font-weight="700">OS:       </tspan></text>
+<text x="396" y="181" font-size="14" fill="#E6EDF3">Arson GNU/Linux 11 x86_64</text>
+<text x="300" y="201" font-size="14"><tspan fill="#E95420" font-weight="700">Host:     </tspan></text>
+<text x="396" y="201" font-size="14" fill="#E6EDF3">EnglishLearners Pvt Ltd — Web Dev</text>
+<text x="300" y="221" font-size="14"><tspan fill="#E95420" font-weight="700">Kernel:   </tspan></text>
+<text x="396" y="221" font-size="14" fill="#E6EDF3">6.6.6-webdev-lts</text>
+<text x="300" y="241" font-size="14"><tspan fill="#E95420" font-weight="700">Uptime:   </tspan></text>
+<text x="396" y="241" font-size="14" fill="#E6EDF3">550+ days (español streak)</text>
+<text x="300" y="261" font-size="14"><tspan fill="#E95420" font-weight="700">Packages: </tspan></text>
+<text x="396" y="261" font-size="14" fill="#E6EDF3">4 (python, ts, docker, vim)</text>
+<text x="300" y="281" font-size="14"><tspan fill="#E95420" font-weight="700">Shell:    </tspan></text>
+<text x="396" y="281" font-size="14" fill="#E6EDF3">bash 5.2 — zsh on weekends</text>
+<text x="300" y="301" font-size="14"><tspan fill="#E95420" font-weight="700">DE:       </tspan></text>
+<text x="396" y="301" font-size="14" fill="#E6EDF3">VS Code (dark mode only)</text>
+<text x="300" y="321" font-size="14"><tspan fill="#E95420" font-weight="700">Terminal: </tspan></text>
+<text x="396" y="321" font-size="14" fill="#E6EDF3">gnome-terminal + tmux</text>
+<text x="300" y="341" font-size="14"><tspan fill="#E95420" font-weight="700">CPU:      </tspan></text>
+<text x="396" y="341" font-size="14" fill="#E6EDF3">neocortex @ learning ML/DL</text>
+<text x="300" y="361" font-size="14"><tspan fill="#E95420" font-weight="700">GPU:      </tspan></text>
+<text x="396" y="361" font-size="14" fill="#E6EDF3">creativity (drivers: OK)</text>
+<text x="300" y="381" font-size="14"><tspan fill="#E95420" font-weight="700">Memory:   </tspan></text>
+<text x="396" y="381" font-size="14" fill="#E6EDF3">novels &amp; guitar riffs</text>
+<text x="300" y="401" font-size="14"><tspan fill="#E95420" font-weight="700">Fun:      </tspan></text>
+<text x="396" y="401" font-size="14" fill="#E6EDF3">builds things, never burns</text>
+<text x="300" y="421" font-size="14"><tspan fill="#E95420" font-weight="700">Philosophy:</tspan></text>
+<text x="396" y="421" font-size="14" fill="#E6EDF3">understand deeply, then build</text>
+<text x="300" y="448" font-size="14" fill="#4AF626">███</text>
+<text x="354" y="448" font-size="14" fill="#E95420">███</text>
+<text x="408" y="448" font-size="14" fill="#1793D1">███</text>
+<text x="462" y="448" font-size="14" fill="#E6EDF3">███</text>
+<text x="516" y="448" font-size="14" fill="#C9D1D9">███</text>
+<text x="570" y="448" font-size="14" fill="#8B949E">███</text>
+<text x="624" y="448" font-size="14" fill="#161B22">███</text>
+<text x="678" y="448" font-size="14" fill="#30363D">███</text>
+<text x="28" y="470" font-size="15"><tspan fill="#4AF626" font-weight="700">pardeep@blu3-bird</tspan><tspan fill="#E6EDF3">:~$ </tspan><tspan fill="#4AF626" font-weight="700">█<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/></tspan></text>
+</svg>
